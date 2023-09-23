@@ -1,4 +1,14 @@
-### Hi there 👋
+# Olá! Me chamo Wandson Bento 😁🖖
+
+- 🌱 Atualmente estou estudando desenvolvimento Android nativo com a linguagem Kotlin
+- 📚 Cursando Análise e desenvolvimento de sistemas - Cruzeiro do Sul 2/4
+- 🧠 Tenho conhecimentos em:
+- 
+
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WandsonB&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **WandsonB/WandsonB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
