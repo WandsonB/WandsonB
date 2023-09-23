@@ -4,7 +4,7 @@
 - 📚 Cursando Análise e desenvolvimento de sistemas - Cruzeiro do Sul 2/4
 - 🧠 Tenho conhecimentos em:
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block; margin-bottom: 15px; margin-left: 15px;"><br>
   <img align="center" alt="Math-Ad" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
   <img align="center" alt="Math-Ads" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="Math-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
