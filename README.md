@@ -23,7 +23,9 @@
 </div>
 
 <div align="center">
+  
   ![Contador de Visualizações](https://komarev.com/ghpvc/?username=WandsonB&color=006bed)
+  
 </div>
 
 <!--
