@@ -1,7 +1,7 @@
 # Olá! Me chamo Wandson Bento 😁🖖
 
-- 🌱 Atualmente estou estudando desenvolvimento Android nativo com a linguagem Kotlin
-- 📚 Cursando Análise e desenvolvimento de sistemas - Cruzeiro do Sul 2/4
+- 🌱 Atualmente estou estudando desenvolvimento FullStack no Senai.
+- 📚 Cursando Análise e desenvolvimento de sistemas - Cruzeiro do Sul 3/4
 - 🧠 Tenho conhecimentos em:
   
 <div style="display: inline_block"><br>
